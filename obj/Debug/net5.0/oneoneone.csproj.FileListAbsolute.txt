@@ -1,0 +1,16 @@
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/bin/Debug/net5.0/oneoneone
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/bin/Debug/net5.0/oneoneone.deps.json
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/bin/Debug/net5.0/oneoneone.runtimeconfig.json
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/bin/Debug/net5.0/oneoneone.runtimeconfig.dev.json
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/bin/Debug/net5.0/oneoneone.dll
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/bin/Debug/net5.0/oneoneone.pdb
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/oneoneone.csproj.AssemblyReference.cache
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/oneoneone.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/oneoneone.AssemblyInfoInputs.cache
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/oneoneone.AssemblyInfo.cs
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/oneoneone.csproj.CoreCompileInputs.cache
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/oneoneone.dll
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/refint/oneoneone.dll
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/oneoneone.pdb
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/oneoneone.genruntimeconfig.cache
+/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/obj/Debug/net5.0/ref/oneoneone.dll

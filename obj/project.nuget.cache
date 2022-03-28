@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OwJRRjknhxxMKkZhPuMWuJKGmNQwBCD7HBUKZ5eYXjL6rqa2tcJbihsNs0GJQfzd/5gL5adDzWkOTCT3nqm7Uw==",
+  "success": true,
+  "projectFilePath": "/home/kaiser/Рабочий стол/Учеба/C#/oneoneone/oneoneone.csproj",
+  "expectedPackageFiles": [
+    "/home/kaiser/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.15/microsoft.netcore.app.host.linux-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
